@@ -3,7 +3,7 @@
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-As stated, breifely describe the project, what you had going in, sand what you found out after the project was completed. Make this a singular paragraph or smaller, no need to bore anyone with the details.
+As stated, breifely describe the project, what you had going in, and what you found out after the project was completed. Make this a singular paragraph or smaller, no need to bore anyone with the details.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
